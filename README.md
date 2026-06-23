@@ -77,6 +77,3 @@ Charan	91.75	A+	Pass
 
 This project successfully analyzes student academic performance by automating calculations and generating visual reports. It provides valuable insights into student achievements, subject-wise strengths, and overall class performance, helping educators make informed decisions to improve learning outcomes.
 
-Connect with a database for large-scale data storage.
-Generate PDF report cards automatically.
-Implement predictiv
